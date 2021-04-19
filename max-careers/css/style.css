@@ -1,0 +1,57 @@
+body, p{
+	font-size: 17px;
+}
+
+.navbar-inverse{
+	background: #06323C;
+	border-color: #06323C;
+}
+
+.navbar{
+	border-radius: 0 !important;
+}
+
+.navbar-inverse .navbar-brand{
+	color: #fff;
+}
+
+.navbar-brand {
+    height: 70px;
+    padding: 25px 15px;
+}
+
+.footer{
+	background: #06323C;
+	color: #ffffff;
+	padding: 20px 0;
+	margin-top: 30px;
+}
+
+.orange{
+	color: #fa8742;
+}
+
+.blog-link{
+	background: #fa8742;
+	color: #fff;
+	display: block;
+	text-decoration: none;
+	margin: 20px 0;
+	padding: 15px;
+	border-radius: 5px;
+}
+
+.blog-link:hover{
+	background: #e1793b;
+	color: #fff;
+	text-decoration: none;
+}
+
+.company-logo{
+	max-height: 132px;
+	margin: 0 auto;
+}
+
+.navbar-nav>li {
+    margin-top: 8px;
+}
